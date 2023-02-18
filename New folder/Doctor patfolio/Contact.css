@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(247, 240, 240);
+}
+a{
+    text-decoration: none;
+}
+.header{
+    padding: 10px 15px;
+}
+.header-second{
+    display: flex;
+    align-items: center;
+}
+.header-second img{
+    width: 10%;
+    margin-left: 50px;
+}
+.header-item ul{
+    display: flex;
+    align-items: center;
+    margin-left: 600px;
+}
+.header-item ul li{
+    list-style: none;
+    margin: 30px;
+}
+.form{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 41%;
+    margin-right: 41%;
+    margin-top: 10%;
+    padding: 15px 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black, 2px 2px 5px black;
+    border-style: none;
+}
+.form-item h1{
+    margin-left: 35px;
+    font-size: 17px;
+    align-items: center;
+}
+.form-item h3{
+    font-size: 13px;
+}
+.form-item input{
+    border-style: none;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 3px 7px;
+    margin: 5px;
+}
+.form-item button{
+    padding: 3px 60px;
+    border-radius: 5px;
+    background-color: rgb(85, 181, 85);
+    color: white;
+    font-weight: 800;
+    border-style: none;
+    margin-left: 12px;
+}
+.form-item button:hover{
+    background-color: #fff;
+    color: black;
+}
