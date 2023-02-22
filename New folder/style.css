@@ -202,7 +202,7 @@ nav{
 .cases p{
     width: 17%;
     position: relative;
-    left: 53%;
+    left: 73%;
     color: white;
 }
 .btn4{
@@ -210,7 +210,7 @@ nav{
     align-items: center;
     float: right;
     position: relative;
-    right: 38%;
+    right: 34%;
     top: 15px;
     /* padding: 10px 15px; */
 }
@@ -256,7 +256,7 @@ nav{
     position: relative;
     top: 30px;
     right: 41.5%;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 100;
     width: 55%;
 }
@@ -276,11 +276,11 @@ nav{
     box-shadow: 2px 2px 5px black, 2px 2px 5px black;
 }
 .btan1 img{
-    width: 10%;
+    width: 20%;
     background-color: black;
 }
 button{
-    padding: 5px 10px;
+    padding: 5px 15px;
     background-color: black;
 }
 .middle-last{
@@ -292,7 +292,7 @@ button{
     display: flex;
     align-items: center;
     position: relative;
-    left: 30%;
+    left: 25%;
     top: -40px;
     width: 60%;
 }
